@@ -2,9 +2,9 @@
 
 # Renovate config
 
-[![CGL](https://github.com/jackd248/renovate-config/actions/workflows/cgl.yml/badge.svg)](https://github.com/jackd248/renovate-config/actions/workflows/cgl.yml)
-[![Release](https://github.com/jackd248/renovate-config/actions/workflows/release.yml/badge.svg)](https://github.com/jackd248/renovate-config/actions/workflows/release.yml)
-[![License](https://img.shields.io/github/license/jackd248/renovate-config)](LICENSE)
+[![CGL](https://github.com/konradmichalik/renovate-config/actions/workflows/cgl.yml/badge.svg)](https://github.com/konradmichalik/renovate-config/actions/workflows/cgl.yml)
+[![Release](https://github.com/konradmichalik/renovate-config/actions/workflows/release.yml/badge.svg)](https://github.com/konradmichalik/renovate-config/actions/workflows/release.yml)
+[![License](https://img.shields.io/github/license/konradmichalik/renovate-config)](LICENSE)
 
 </div>
 
@@ -22,7 +22,7 @@ This repository contains my personal [renovate](https://docs.renovatebot.com/) c
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "extends": [
-        "github>jackd248/renovate-config"
+        "github>konradmichalik/renovate-config"
     ]
 }
 ```

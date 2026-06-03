@@ -44,6 +44,28 @@
 	  "matchDatasources": [
 		"npm"
 	  ]
+	},
+	{
+	  "groupName": "PHPUnit",
+	  "description": "Group PHPUnit packages",
+	  "matchDatasources": [
+		"packagist"
+	  ],
+	  "matchPackageNames": [
+		"phpunit/**",
+		"sebastian/**"
+	  ]
+	},
+	{
+	  "groupName": "Rector packages",
+	  "description": "Group Rector packages",
+	  "matchDatasources": [
+		"packagist"
+	  ],
+	  "matchPackageNames": [
+		"rector/**",
+		"ssch/typo3-rector"
+	  ]
 	}
 ],
 "platformAutomerge": true,

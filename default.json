@@ -68,12 +68,6 @@
 		"rector/**",
 		"ssch/typo3-rector"
 	  ]
-	},
-	{
-	  "matchManagers": [
-		"github-actions"
-	  ],
-	  "pinDigests": true
 	}
 ],
 "platformAutomerge": true,

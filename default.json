@@ -20,6 +20,8 @@
 "commitBodyTable": true,
 "composerIgnorePlatformReqs": null,
 "configMigration": true,
+"dependencyDashboardOSVVulnerabilitySummary": "unresolved",
+"osvVulnerabilityAlerts": true,
 "lockFileMaintenance": {
 	"enabled": true,
 	"extends": [

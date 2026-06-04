@@ -82,6 +82,7 @@
 	  ":automergeDisabled",
 	  ":automergePr"
 	],
+	"commitMessagePrefix": "security",
 	"rangeStrategy": "replace"
 }
 }
